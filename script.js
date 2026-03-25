@@ -86,4 +86,5 @@ else if(traffic==="green"){
 }
 else{console.log("invalid traffic light")}
 
+// activity 7
 
